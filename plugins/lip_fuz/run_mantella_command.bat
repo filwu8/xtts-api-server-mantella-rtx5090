@@ -1,0 +1,2 @@
+@echo off
+FaceFXWrapper.exe Skyrim USEnglish FonixData.cdf "C:\Users\filwu\AppData\Local\Temp/voicelines/out.wav" "C:\Users\filwu\AppData\Local\Temp/voicelines/out_r.wav" "C:\Users\filwu\AppData\Local\Temp/voicelines/out.lip" " 我们必须随时掌握这些事情，你懂的。 " >nul 2>&1

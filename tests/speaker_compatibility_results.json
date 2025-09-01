@@ -1,0 +1,14 @@
+{
+  "/speakers_list": {
+    "success": false,
+    "error": "HTTPConnectionPool(host='localhost', port=8020): Max retries exceeded with url: /speakers_list (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002001B379450>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))"
+  },
+  "/speakers": {
+    "success": false,
+    "error": "HTTPConnectionPool(host='localhost', port=8020): Max retries exceeded with url: /speakers (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002001B37B750>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))"
+  },
+  "/speakers_detailed": {
+    "success": false,
+    "error": "HTTPConnectionPool(host='localhost', port=8020): Max retries exceeded with url: /speakers_detailed (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002001B385910>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))"
+  }
+}

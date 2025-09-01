@@ -1,0 +1,52 @@
+dist
+venv
+.venv
+speakers
+output
+test
+models
+xtts_api_server/models
+xtts_api_server/RealtimeTTS/engines/coqui_engine_old.py
+xtts_models
+latent_speaker_folder
+
+# Build artifacts
+build/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Envs
+.env
+docker/.env
+
+# Media and large binaries
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.pkg
+*.pyz
+*.toc
+*.log
+*.tmp
+
+# Project-specific large dirs/files
+example/
+语音合成文件夹/
+output.wav
+
+# Executables
+*.exe
